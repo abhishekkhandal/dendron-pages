@@ -1,0 +1,79 @@
+<h1 id="rich-formatting"><a aria-hidden="true" class="anchor-heading" href="#rich-formatting"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Rich Formatting</h1>
+<p>Dendron supports an extended Markdown syntax, which provides a lot of options for rich formatting. Take a look at some examples in this note to see what's possible.  Have the preview pane opened (<code>Dendron: Show Preview</code>) to see how these will get rendered.</p>
+<h4 id="markdown-formatting-options"><a aria-hidden="true" class="anchor-heading" href="#markdown-formatting-options"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Markdown Formatting Options</h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th align="left">Formatting</th><th align="center">Example</th></tr></thead><tbody><tr><td align="left">Bold</td><td align="center"><strong>Hello World</strong></td></tr><tr><td align="left">Italics</td><td align="center"><em>Hello World</em></td></tr><tr><td align="left">Strikethrough</td><td align="center"><del>Hello World</del></td></tr></tbody></table>
+<h4 id="images"><a aria-hidden="true" class="anchor-heading" href="#images"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Images</h4>
+<blockquote>
+<p>🌱 Copy any image onto your clipboard, and then use the <code>Paste Image</code> command while focused in your editor pane. This will automatically create a link for you and copy the file contents into the assets directory in your workspace.</p>
+</blockquote>
+<p>Sample Image Link:
+<img src="/dendron-pages/assets/images/logo_small.png" alt="Dendron Logo"></p>
+<h4 id="equations"><a aria-hidden="true" class="anchor-heading" href="#equations"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Equations</h4>
+<p>Math typesetting can be written through <a href="https://wiki.dendron.so/notes/b1919663-cc48-4054-b0cf-4b26fe444907.html">Katex</a></p>
+<div class="math math-display"><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><msubsup><mo>∫</mo><mrow><mo>−</mo><mi mathvariant="normal">∞</mi></mrow><mi mathvariant="normal">∞</mi></msubsup><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mi>d</mi><mi>x</mi></mrow><annotation encoding="application/x-tex">\int_{-\infty}^\infty f(x)dx</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.384573em;vertical-align:-0.970281em;"></span><span class="mop"><span class="mop op-symbol large-op" style="margin-right:0.44445em;position:relative;top:-0.0011249999999999316em;">∫</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.414292em;"><span style="top:-1.7880500000000001em;margin-left:-0.44445em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">∞</span></span></span></span><span style="top:-3.8129000000000004em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">∞</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.970281em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathnormal" style="margin-right:0.10764em;">f</span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mclose">)</span><span class="mord mathnormal">d</span><span class="mord mathnormal">x</span></span></span></span></span></div>
+<h4 id="diagrams"><a aria-hidden="true" class="anchor-heading" href="#diagrams"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Diagrams</h4>
+<p>Various types of diagrams are supported with the <a href="https://mermaid-js.github.io/mermaid/#/">mermaid</a> visualization syntax.</p>
+<h5 id="flow-charts"><a aria-hidden="true" class="anchor-heading" href="#flow-charts"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Flow Charts</h5>
+<div class="mermaid">
+  graph TD;
+    A-->B;
+    A-->C;
+</div>
+<h5 id="sequence-diagrams"><a aria-hidden="true" class="anchor-heading" href="#sequence-diagrams"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Sequence Diagrams</h5>
+<div class="mermaid">
+  sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+    John->>Bob: How about you?
+    Bob-->>John: Jolly good!
+</div>
+<h3 id="note-references"><a aria-hidden="true" class="anchor-heading" href="#note-references"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Note References</h3>
+<p>You can link to a specific section of a different note and have the content in-lined into the current note.</p>
+<p></p><p></p><div class="portal-container">
+<div class="portal-head">
+<div class="portal-backlink">
+<div class="portal-title">From <span class="portal-text-title">Conclusion</span></div>
+<a href="/dendron-pages/notes/Jwq6452yNKOVw6WZhvQQd" class="portal-arrow">Go to text <span class="right-arrow">→</span></a>
+</div>
+</div>
+<div id="portal-parent-anchor" class="portal-parent" markdown="1">
+<div class="portal-parent-fader-top"></div>
+<div class="portal-parent-fader-bottom"></div><h4 id="join-the-community-of-dendrologists"><a aria-hidden="true" class="anchor-heading" href="#join-the-community-of-dendrologists"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Join the community of Dendrologists</h4>
+<p>Don't forget - join us on <a href="https://discord.com/invite/AE3NRw9">Discord</a> to ask questions, suggest new features, or to discuss note-taking methodologies with fellow Dendrologists.</p>
+</div></div><p></p><p></p>
+<p><a href="https://wiki.dendron.so/notes/f1af56bb-db27-47ae-8406-61a98de6c78c.html#note-reference">References Docs</a></p>
+<h3 id="next-steps"><a aria-hidden="true" class="anchor-heading" href="#next-steps"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Next Steps</h3>
+<ul>
+<li><a href="/dendron-pages/notes/Jwq6452yNKOVw6WZhvQQd">Conclude the Tutorial</a></li>
+</ul>
+<hr>
+<p><a href="/dendron-pages/notes/01u0co3RYjOM1bjpc2qIU">Tutorial Home Page</a></p>
+<hr>
+<h2 id="backlinks"><a aria-hidden="true" class="anchor-heading" href="#backlinks"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Backlinks</h2>
+<ul>
+<li><a href="/dendron-pages/notes/01u0co3RYjOM1bjpc2qIU">Tutorial</a></li>
+<li><a href="/dendron-pages/notes/hAB2tQHsi0CGuhxz5HkTI">Linking Your Notes</a></li>
+</ul>

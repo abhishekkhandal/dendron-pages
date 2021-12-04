@@ -1,0 +1,1383 @@
+{
+  "notes": {
+    "403": {
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "403",
+      "updated": 1638604845549,
+      "created": 1638604845549,
+      "parent": null,
+      "children": [],
+      "data": {}
+    },
+    "root": {
+      "id": "root",
+      "title": "root",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "root",
+      "updated": 1605266684036,
+      "created": 1595961348801,
+      "parent": null,
+      "children": [
+        "01u0co3RYjOM1bjpc2qIU"
+      ],
+      "data": {},
+      "contentHash": "cf4622cd4e7841f93fb3051e6203c8e6",
+      "custom": {
+        "stub": false,
+        "nav_order": 0,
+        "permalink": "/"
+      }
+    },
+    "01u0co3RYjOM1bjpc2qIU": {
+      "id": "01u0co3RYjOM1bjpc2qIU",
+      "title": "Tutorial",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "Tutorial Home Page",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial",
+            "id": "01u0co3RYjOM1bjpc2qIU",
+            "vaultName": "vault"
+          },
+          "value": "tutorial.1-navigation-basics",
+          "alias": "tutorial.1-navigation-basics",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 14,
+              "offset": 865
+            },
+            "end": {
+              "line": 17,
+              "column": 46,
+              "offset": 897
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial.1-navigation-basics"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial",
+            "id": "01u0co3RYjOM1bjpc2qIU",
+            "vaultName": "vault"
+          },
+          "value": "tutorial.2-taking-notes",
+          "alias": "tutorial.2-taking-notes",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 13,
+              "offset": 910
+            },
+            "end": {
+              "line": 18,
+              "column": 40,
+              "offset": 937
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial.2-taking-notes"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial",
+            "id": "01u0co3RYjOM1bjpc2qIU",
+            "vaultName": "vault"
+          },
+          "value": "tutorial.3-linking-your-notes",
+          "alias": "tutorial.3-linking-your-notes",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 15,
+              "offset": 952
+            },
+            "end": {
+              "line": 19,
+              "column": 48,
+              "offset": 985
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial.3-linking-your-notes"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial",
+            "id": "01u0co3RYjOM1bjpc2qIU",
+            "vaultName": "vault"
+          },
+          "value": "tutorial.4-rich-formatting",
+          "alias": "tutorial.4-rich-formatting",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 15,
+              "offset": 1000
+            },
+            "end": {
+              "line": 20,
+              "column": 45,
+              "offset": 1030
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial.4-rich-formatting"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial",
+            "id": "01u0co3RYjOM1bjpc2qIU",
+            "vaultName": "vault"
+          },
+          "value": "tutorial.5-conclusion",
+          "alias": "tutorial.5-conclusion",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 15,
+              "offset": 1045
+            },
+            "end": {
+              "line": 21,
+              "column": 40,
+              "offset": 1070
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial.5-conclusion"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial",
+            "id": "01u0co3RYjOM1bjpc2qIU",
+            "vaultName": "vault"
+          },
+          "value": "user.dendronhq",
+          "alias": "@dendronhq",
+          "position": {
+            "start": {
+              "line": 25,
+              "column": 240,
+              "offset": 1330
+            },
+            "end": {
+              "line": 25,
+              "column": 250,
+              "offset": 1340
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "user.dendronhq"
+          }
+        },
+        {
+          "from": {
+            "fname": "tutorial.1-navigation-basics",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 40,
+              "column": 62,
+              "offset": 1941
+            },
+            "end": {
+              "line": 40,
+              "column": 74,
+              "offset": 1953
+            },
+            "indent": []
+          },
+          "value": "tutorial"
+        },
+        {
+          "from": {
+            "fname": "tutorial.1-navigation-basics",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 44,
+              "column": 1,
+              "offset": 2087
+            },
+            "end": {
+              "line": 44,
+              "column": 33,
+              "offset": 2119
+            },
+            "indent": []
+          },
+          "value": "tutorial"
+        },
+        {
+          "from": {
+            "fname": "tutorial.2-taking-notes",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 49,
+              "column": 1,
+              "offset": 3501
+            },
+            "end": {
+              "line": 49,
+              "column": 33,
+              "offset": 3533
+            },
+            "indent": []
+          },
+          "value": "tutorial"
+        },
+        {
+          "from": {
+            "fname": "tutorial.3-linking-your-notes",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 10,
+              "offset": 334
+            },
+            "end": {
+              "line": 8,
+              "column": 22,
+              "offset": 346
+            },
+            "indent": []
+          },
+          "value": "tutorial"
+        },
+        {
+          "from": {
+            "fname": "tutorial.3-linking-your-notes",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 33,
+              "column": 76,
+              "offset": 1727
+            },
+            "end": {
+              "line": 33,
+              "column": 97,
+              "offset": 1748
+            },
+            "indent": []
+          },
+          "value": "tutorial"
+        },
+        {
+          "from": {
+            "fname": "tutorial.3-linking-your-notes",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 39,
+              "column": 1,
+              "offset": 2131
+            },
+            "end": {
+              "line": 39,
+              "column": 33,
+              "offset": 2163
+            },
+            "indent": []
+          },
+          "value": "tutorial"
+        },
+        {
+          "from": {
+            "fname": "tutorial.4-rich-formatting",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 64,
+              "column": 1,
+              "offset": 1756
+            },
+            "end": {
+              "line": 64,
+              "column": 33,
+              "offset": 1788
+            },
+            "indent": []
+          },
+          "value": "tutorial"
+        },
+        {
+          "from": {
+            "fname": "tutorial.5-conclusion",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 26,
+              "column": 1,
+              "offset": 1817
+            },
+            "end": {
+              "line": 26,
+              "column": 33,
+              "offset": 1849
+            },
+            "indent": []
+          },
+          "value": "tutorial"
+        }
+      ],
+      "anchors": {
+        "welcome-to-dendron": {
+          "type": "header",
+          "text": "Welcome to Dendron",
+          "value": "welcome-to-dendron",
+          "line": 8,
+          "column": 0
+        },
+        "steps-to-get-started-with-dendron": {
+          "type": "header",
+          "text": "Steps to get started with Dendron:",
+          "value": "steps-to-get-started-with-dendron",
+          "line": 18,
+          "column": 0
+        },
+        "getting-help": {
+          "type": "header",
+          "text": "Getting Help",
+          "value": "getting-help",
+          "line": 29,
+          "column": 0
+        },
+        "icon-guide": {
+          "type": "header",
+          "text": "Icon Guide",
+          "value": "icon-guide",
+          "line": 35,
+          "column": 0
+        }
+      },
+      "fname": "tutorial",
+      "updated": 1624864763249,
+      "created": 1624333847315,
+      "parent": "root",
+      "children": [
+        "vXh-HmSTsmgGA9j9IzcZh",
+        "DO_RXSlAbwNwbz-ILKoQa",
+        "hAB2tQHsi0CGuhxz5HkTI",
+        "vAy0awBTwDaxKGHWUdSaP",
+        "Jwq6452yNKOVw6WZhvQQd"
+      ],
+      "data": {},
+      "contentHash": "aad50931cc6cc70669816b90c240ff6f",
+      "custom": {}
+    },
+    "Jwq6452yNKOVw6WZhvQQd": {
+      "id": "Jwq6452yNKOVw6WZhvQQd",
+      "title": "Conclusion",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.5-conclusion",
+            "id": "Jwq6452yNKOVw6WZhvQQd",
+            "vaultName": "vault"
+          },
+          "value": "tutorial",
+          "alias": "Tutorial Home Page",
+          "position": {
+            "start": {
+              "line": 26,
+              "column": 1,
+              "offset": 1817
+            },
+            "end": {
+              "line": 26,
+              "column": 33,
+              "offset": 1849
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial"
+          }
+        },
+        {
+          "from": {
+            "fname": "tutorial",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 15,
+              "offset": 1045
+            },
+            "end": {
+              "line": 21,
+              "column": 40,
+              "offset": 1070
+            },
+            "indent": []
+          },
+          "value": "tutorial.5-conclusion"
+        },
+        {
+          "from": {
+            "fname": "tutorial.4-rich-formatting",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 61,
+              "column": 3,
+              "offset": 1703
+            },
+            "end": {
+              "line": 61,
+              "column": 50,
+              "offset": 1750
+            },
+            "indent": []
+          },
+          "value": "tutorial.5-conclusion"
+        },
+        {
+          "from": {
+            "fname": "tutorial.4-rich-formatting",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 55,
+              "column": 1,
+              "offset": 1458
+            },
+            "end": {
+              "line": 55,
+              "column": 119,
+              "offset": 1576
+            },
+            "indent": []
+          },
+          "value": "tutorial.5-conclusion"
+        }
+      ],
+      "anchors": {
+        "join-the-community-of-dendrologists": {
+          "type": "header",
+          "text": "Join the community of Dendrologists",
+          "value": "join-the-community-of-dendrologists",
+          "line": 12,
+          "column": 0
+        },
+        "explore-the-full-potential-of-dendron": {
+          "type": "header",
+          "text": "Explore the full potential of Dendron",
+          "value": "explore-the-full-potential-of-dendron",
+          "line": 18,
+          "column": 0
+        },
+        "^discord-block-ref": {
+          "type": "block",
+          "value": "discord-block-ref",
+          "line": 16,
+          "column": 0
+        }
+      },
+      "fname": "tutorial.5-conclusion",
+      "updated": 1624934419858,
+      "created": 1624332987705,
+      "parent": "01u0co3RYjOM1bjpc2qIU",
+      "children": [],
+      "data": {},
+      "contentHash": "3e6d9903ce1bea5b09ff5f565a757e0d",
+      "custom": {}
+    },
+    "vAy0awBTwDaxKGHWUdSaP": {
+      "id": "vAy0awBTwDaxKGHWUdSaP",
+      "title": "Rich Formatting",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "Text Formatting, Images, Formulas, and Diagrams",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.4-rich-formatting",
+            "id": "vAy0awBTwDaxKGHWUdSaP",
+            "vaultName": "vault"
+          },
+          "value": "tutorial.5-conclusion",
+          "alias": "Conclude the Tutorial",
+          "position": {
+            "start": {
+              "line": 61,
+              "column": 3,
+              "offset": 1703
+            },
+            "end": {
+              "line": 61,
+              "column": 50,
+              "offset": 1750
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial.5-conclusion"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.4-rich-formatting",
+            "id": "vAy0awBTwDaxKGHWUdSaP",
+            "vaultName": "vault"
+          },
+          "value": "tutorial",
+          "alias": "Tutorial Home Page",
+          "position": {
+            "start": {
+              "line": 64,
+              "column": 1,
+              "offset": 1756
+            },
+            "end": {
+              "line": 64,
+              "column": 33,
+              "offset": 1788
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "tutorial.4-rich-formatting",
+            "id": "vAy0awBTwDaxKGHWUdSaP",
+            "vaultName": "vault"
+          },
+          "value": "tutorial.5-conclusion",
+          "position": {
+            "start": {
+              "line": 55,
+              "column": 1,
+              "offset": 1458
+            },
+            "end": {
+              "line": 55,
+              "column": 119,
+              "offset": 1576
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "tutorial.5-conclusion",
+            "anchorHeader": "join-the-community-of-dendrologists:#^discord-block-ref"
+          }
+        },
+        {
+          "from": {
+            "fname": "tutorial",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 15,
+              "offset": 1000
+            },
+            "end": {
+              "line": 20,
+              "column": 45,
+              "offset": 1030
+            },
+            "indent": []
+          },
+          "value": "tutorial.4-rich-formatting"
+        },
+        {
+          "from": {
+            "fname": "tutorial.3-linking-your-notes",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 30,
+              "column": 20,
+              "offset": 1432
+            },
+            "end": {
+              "line": 30,
+              "column": 66,
+              "offset": 1478
+            },
+            "indent": []
+          },
+          "value": "tutorial.4-rich-formatting"
+        }
+      ],
+      "anchors": {
+        "markdown-formatting-options": {
+          "type": "header",
+          "text": "Markdown Formatting Options",
+          "value": "markdown-formatting-options",
+          "line": 10,
+          "column": 0
+        },
+        "images": {
+          "type": "header",
+          "text": "Images",
+          "value": "images",
+          "line": 18,
+          "column": 0
+        },
+        "equations": {
+          "type": "header",
+          "text": "Equations",
+          "value": "equations",
+          "line": 25,
+          "column": 0
+        },
+        "diagrams": {
+          "type": "header",
+          "text": "Diagrams",
+          "value": "diagrams",
+          "line": 33,
+          "column": 0
+        },
+        "flow-charts": {
+          "type": "header",
+          "text": "Flow Charts",
+          "value": "flow-charts",
+          "line": 37,
+          "column": 0
+        },
+        "sequence-diagrams": {
+          "type": "header",
+          "text": "Sequence Diagrams",
+          "value": "sequence-diagrams",
+          "line": 45,
+          "column": 0
+        },
+        "note-references": {
+          "type": "header",
+          "text": "Note References",
+          "value": "note-references",
+          "line": 57,
+          "column": 0
+        },
+        "next-steps": {
+          "type": "header",
+          "text": "Next Steps",
+          "value": "next-steps",
+          "line": 65,
+          "column": 0
+        }
+      },
+      "fname": "tutorial.4-rich-formatting",
+      "updated": 1624865905667,
+      "created": 1624352425213,
+      "parent": "01u0co3RYjOM1bjpc2qIU",
+      "children": [],
+      "data": {},
+      "contentHash": "9a5d372019106112c270d10d6b3f4a75",
+      "custom": {}
+    },
+    "hAB2tQHsi0CGuhxz5HkTI": {
+      "id": "hAB2tQHsi0CGuhxz5HkTI",
+      "title": "Linking Your Notes",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "Note Linking and your Knowledge Graph",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.3-linking-your-notes",
+            "id": "hAB2tQHsi0CGuhxz5HkTI",
+            "vaultName": "vault"
+          },
+          "value": "tutorial",
+          "alias": "tutorial",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 10,
+              "offset": 334
+            },
+            "end": {
+              "line": 8,
+              "column": 22,
+              "offset": 346
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.3-linking-your-notes",
+            "id": "hAB2tQHsi0CGuhxz5HkTI",
+            "vaultName": "vault"
+          },
+          "value": "tutorial.4-rich-formatting",
+          "alias": "Rich Formatting",
+          "position": {
+            "start": {
+              "line": 30,
+              "column": 20,
+              "offset": 1432
+            },
+            "end": {
+              "line": 30,
+              "column": 66,
+              "offset": 1478
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial.4-rich-formatting"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.3-linking-your-notes",
+            "id": "hAB2tQHsi0CGuhxz5HkTI",
+            "vaultName": "vault"
+          },
+          "value": "tutorial",
+          "alias": "My Alias",
+          "position": {
+            "start": {
+              "line": 33,
+              "column": 76,
+              "offset": 1727
+            },
+            "end": {
+              "line": 33,
+              "column": 97,
+              "offset": 1748
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.3-linking-your-notes",
+            "id": "hAB2tQHsi0CGuhxz5HkTI",
+            "vaultName": "vault"
+          },
+          "value": "tutorial.3-links-and-graphs",
+          "alias": "Additional Link Features",
+          "position": {
+            "start": {
+              "line": 34,
+              "column": 87,
+              "offset": 1835
+            },
+            "end": {
+              "line": 34,
+              "column": 168,
+              "offset": 1916
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial.3-links-and-graphs",
+            "anchorHeader": "additional-link-features"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.3-linking-your-notes",
+            "id": "hAB2tQHsi0CGuhxz5HkTI",
+            "vaultName": "vault"
+          },
+          "value": "tutorial",
+          "alias": "Tutorial Home Page",
+          "position": {
+            "start": {
+              "line": 39,
+              "column": 1,
+              "offset": 2131
+            },
+            "end": {
+              "line": 39,
+              "column": 33,
+              "offset": 2163
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial"
+          }
+        },
+        {
+          "from": {
+            "fname": "tutorial",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 15,
+              "offset": 952
+            },
+            "end": {
+              "line": 19,
+              "column": 48,
+              "offset": 985
+            },
+            "indent": []
+          },
+          "value": "tutorial.3-linking-your-notes"
+        },
+        {
+          "from": {
+            "fname": "tutorial.2-taking-notes",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 46,
+              "column": 20,
+              "offset": 3443
+            },
+            "end": {
+              "line": 46,
+              "column": 72,
+              "offset": 3495
+            },
+            "indent": []
+          },
+          "value": "tutorial.3-linking-your-notes"
+        }
+      ],
+      "anchors": {
+        "links": {
+          "type": "header",
+          "text": "Links",
+          "value": "links",
+          "line": 8,
+          "column": 0
+        },
+        "backlinks": {
+          "type": "header",
+          "text": "Backlinks",
+          "value": "backlinks",
+          "line": 20,
+          "column": 0
+        },
+        "explore-your-knowledge-graph": {
+          "type": "header",
+          "text": "Explore Your Knowledge Graph",
+          "value": "explore-your-knowledge-graph",
+          "line": 26,
+          "column": 0
+        },
+        "next-steps": {
+          "type": "header",
+          "text": "Next Steps",
+          "value": "next-steps",
+          "line": 34,
+          "column": 0
+        }
+      },
+      "fname": "tutorial.3-linking-your-notes",
+      "updated": 1624934268124,
+      "created": 1624333278136,
+      "parent": "01u0co3RYjOM1bjpc2qIU",
+      "children": [],
+      "data": {},
+      "contentHash": "c7942413a59f5569e03dee2b4a5c5c81",
+      "custom": {}
+    },
+    "DO_RXSlAbwNwbz-ILKoQa": {
+      "id": "DO_RXSlAbwNwbz-ILKoQa",
+      "title": "Taking Notes",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.2-taking-notes",
+            "id": "DO_RXSlAbwNwbz-ILKoQa",
+            "vaultName": "vault"
+          },
+          "value": "tutorial.3-linking-your-notes",
+          "alias": "Linking Your Notes",
+          "position": {
+            "start": {
+              "line": 46,
+              "column": 20,
+              "offset": 3443
+            },
+            "end": {
+              "line": 46,
+              "column": 72,
+              "offset": 3495
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial.3-linking-your-notes"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.2-taking-notes",
+            "id": "DO_RXSlAbwNwbz-ILKoQa",
+            "vaultName": "vault"
+          },
+          "value": "tutorial",
+          "alias": "Tutorial Home Page",
+          "position": {
+            "start": {
+              "line": 49,
+              "column": 1,
+              "offset": 3501
+            },
+            "end": {
+              "line": 49,
+              "column": 33,
+              "offset": 3533
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial"
+          }
+        },
+        {
+          "from": {
+            "fname": "tutorial",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 13,
+              "offset": 910
+            },
+            "end": {
+              "line": 18,
+              "column": 40,
+              "offset": 937
+            },
+            "indent": []
+          },
+          "value": "tutorial.2-taking-notes"
+        },
+        {
+          "from": {
+            "fname": "tutorial.1-navigation-basics",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 41,
+              "column": 28,
+              "offset": 2054
+            },
+            "end": {
+              "line": 41,
+              "column": 55,
+              "offset": 2081
+            },
+            "indent": []
+          },
+          "value": "tutorial.2-taking-notes"
+        }
+      ],
+      "anchors": {
+        "create-a-note": {
+          "type": "header",
+          "text": "Create a Note",
+          "value": "create-a-note",
+          "line": 8,
+          "column": 0
+        },
+        "creating-a-hierarchy": {
+          "type": "header",
+          "text": "Creating a hierarchy",
+          "value": "creating-a-hierarchy",
+          "line": 20,
+          "column": 0
+        },
+        "finding-notes": {
+          "type": "header",
+          "text": "Finding Notes",
+          "value": "finding-notes",
+          "line": 38,
+          "column": 0
+        },
+        "next-steps": {
+          "type": "header",
+          "text": "Next Steps",
+          "value": "next-steps",
+          "line": 50,
+          "column": 0
+        }
+      },
+      "fname": "tutorial.2-taking-notes",
+      "updated": 1624934082241,
+      "created": 1624333266168,
+      "parent": "01u0co3RYjOM1bjpc2qIU",
+      "children": [],
+      "data": {},
+      "contentHash": "9077152c824ac4d91e8bf6d8945c1f8e",
+      "custom": {}
+    },
+    "vXh-HmSTsmgGA9j9IzcZh": {
+      "id": "vXh-HmSTsmgGA9j9IzcZh",
+      "title": "Navigation Basics",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.1-navigation-basics",
+            "id": "vXh-HmSTsmgGA9j9IzcZh",
+            "vaultName": "vault"
+          },
+          "value": "tutorial",
+          "alias": "tutorial",
+          "position": {
+            "start": {
+              "line": 40,
+              "column": 62,
+              "offset": 1941
+            },
+            "end": {
+              "line": 40,
+              "column": 74,
+              "offset": 1953
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.1-navigation-basics",
+            "id": "vXh-HmSTsmgGA9j9IzcZh",
+            "vaultName": "vault"
+          },
+          "value": "tutorial.2-taking-notes",
+          "alias": "tutorial.2-taking-notes",
+          "position": {
+            "start": {
+              "line": 41,
+              "column": 28,
+              "offset": 2054
+            },
+            "end": {
+              "line": 41,
+              "column": 55,
+              "offset": 2081
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial.2-taking-notes"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "tutorial.1-navigation-basics",
+            "id": "vXh-HmSTsmgGA9j9IzcZh",
+            "vaultName": "vault"
+          },
+          "value": "tutorial",
+          "alias": "Tutorial Home Page",
+          "position": {
+            "start": {
+              "line": 44,
+              "column": 1,
+              "offset": 2087
+            },
+            "end": {
+              "line": 44,
+              "column": 33,
+              "offset": 2119
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "tutorial"
+          }
+        },
+        {
+          "from": {
+            "fname": "tutorial",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 14,
+              "offset": 865
+            },
+            "end": {
+              "line": 17,
+              "column": 46,
+              "offset": 897
+            },
+            "indent": []
+          },
+          "value": "tutorial.1-navigation-basics"
+        }
+      ],
+      "anchors": {
+        "1-editor-pane": {
+          "type": "header",
+          "text": "1. Editor Pane",
+          "value": "1-editor-pane",
+          "line": 16,
+          "column": 0
+        },
+        "2-preview-pane": {
+          "type": "header",
+          "text": "2. Preview Pane",
+          "value": "2-preview-pane",
+          "line": 20,
+          "column": 0
+        },
+        "3-dendron-workspace": {
+          "type": "header",
+          "text": "3. Dendron Workspace",
+          "value": "3-dendron-workspace",
+          "line": 26,
+          "column": 0
+        },
+        "4-outline": {
+          "type": "header",
+          "text": "4. Outline",
+          "value": "4-outline",
+          "line": 30,
+          "column": 0
+        },
+        "5-tree-view": {
+          "type": "header",
+          "text": "5. Tree View",
+          "value": "5-tree-view",
+          "line": 34,
+          "column": 0
+        },
+        "6-backlinks": {
+          "type": "header",
+          "text": "6. Backlinks",
+          "value": "6-backlinks",
+          "line": 38,
+          "column": 0
+        },
+        "next-steps": {
+          "type": "header",
+          "text": "Next Steps",
+          "value": "next-steps",
+          "line": 44,
+          "column": 0
+        }
+      },
+      "fname": "tutorial.1-navigation-basics",
+      "updated": 1624934444826,
+      "created": 1624332288808,
+      "parent": "01u0co3RYjOM1bjpc2qIU",
+      "children": [],
+      "data": {},
+      "contentHash": "a88e2b27f5b005a4b2cab7e82392f827",
+      "custom": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "root",
+      "title": "root",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "root",
+      "updated": 1605266684036,
+      "created": 1595961348801,
+      "parent": null,
+      "children": [
+        "01u0co3RYjOM1bjpc2qIU"
+      ],
+      "data": {},
+      "contentHash": "cf4622cd4e7841f93fb3051e6203c8e6",
+      "custom": {
+        "stub": false,
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "body": "\nThis is the root for your Dendron vault.\n\nIf you decide to publish your entire vault, it will be your landing page. You are free to customize any part of this page except the frontmatter at the top, between the `---`. \n"
+    }
+  ],
+  "noteIndex": {
+    "id": "root",
+    "title": "root",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "type": "note",
+    "desc": "",
+    "links": [],
+    "anchors": {},
+    "fname": "root",
+    "updated": 1605266684036,
+    "created": 1595961348801,
+    "parent": null,
+    "children": [
+      "01u0co3RYjOM1bjpc2qIU"
+    ],
+    "data": {},
+    "contentHash": "cf4622cd4e7841f93fb3051e6203c8e6",
+    "custom": {
+      "stub": false,
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "body": "\nThis is the root for your Dendron vault.\n\nIf you decide to publish your entire vault, it will be your landing page. You are free to customize any part of this page except the frontmatter at the top, between the `---`. \n"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}

@@ -6,6 +6,8 @@ useKatex: true
 dev:
     enablePreviewV2: true
 site:
+    siteUrl: https://abhishekkhandal.github.io
+    assetsPrefix: /dendron-pages
     copyAssets: true
     siteHierarchies:
         - root
